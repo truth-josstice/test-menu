@@ -1,6 +1,7 @@
 # Test Menu Website
 
 ## Website about lunch options!
+[this should be hidden but also to test ssh uploads]:#
 
 Was initially confused at how I was supposed to go about most of this, *however* I was able to work more on it after first lesson on intro to HTML.
 Content of the website not important, structure is the key, so I have made mine memeable![^note]
