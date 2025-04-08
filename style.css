@@ -1,0 +1,22 @@
+/* Attempting to align everything to the centre of the page! 
+Difficult to achieve, just set to indent instead! */
+.pagestyle {
+    margin-left: 2.5%;
+    /* margin-right: 10%; */
+}
+
+.text {
+    margin-left: 2.5%;
+}
+
+.fooditem {
+    outline: dashed black;
+    background-color: #bd00876c;
+    border-radius: 10px;
+    width: 750px;
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
+    /* margin-left: 2.5%; */
+    
+}
