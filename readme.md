@@ -1,7 +1,7 @@
 # Test Menu Website
 
 ## Live Demo
-- https://thunderous-cendol-148418.netlify.app/
+- https://dulcet-choux-3889ed.netlify.app
 
 ## Website about lunch options!
 [this should be hidden but also to test ssh uploads]:#
